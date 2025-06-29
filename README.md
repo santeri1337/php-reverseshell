@@ -61,6 +61,5 @@ This is an easy-to-use PHP script that helps you get a command-line interface (a
 
 * **Written by:** santeri@bittisilta.fi
 * **Website:** [https://bittisilta.fi](https://bittisilta.fi)
-* **TryHackMe:** [https://tryhackme.com/p/santeri1337](https://tryhackme.com/p/santeri1337) [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/santeri1337.png)](https://tryhackme.com/p/santeri1337)
-
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/santeri1337.png)](https://tryhackme.com/p/santeri1337)
 * **GitHub:** [https://github.com/santeri1337](https://github.com/santeri1337)
